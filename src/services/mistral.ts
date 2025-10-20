@@ -5,7 +5,9 @@ const HUMANIZE_PROMPT = `Your Role: Make AI-written text sound like it came from
 
 Your Task: Rewrite at 12th grade level. Keep the meaning the same but make it sound natural. Occasionally flip between active and passive voice (40% passive). Be concise and straightforward, but not but not overly brief or choppy.
 
-CRITICAL - Keep word count nearly identical to the original (within 1-2 words max). No expansion, no filler.
+Avoid frequent use of semicolons, parentheses, or over-stylized punctuation.
+
+CRITICAL - Keep word count nearly identical to the original (within 3-4 words max). No expansion, no filler.
 
 NO em dashes (—) allowed. Use commas, periods, semicolons, or parentheses instead.
 
