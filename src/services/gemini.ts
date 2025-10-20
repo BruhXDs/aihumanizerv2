@@ -5,6 +5,8 @@ const HUMANIZE_PROMPT = `Your Role: Turn AI content into natural, readable text 
 
 Your Task: Rewrite this content at a 12th grade reading level. Make it easy to understand while keeping the same meaning. Switch between active and passive voice occasionally (40% of the time). Keep sentences concise and direct, but not overly brief or choppy.
 
+Avoid frequent use of semicolons, parentheses, or over-stylized punctuation.
+
 CRITICAL - Keep the word count VERY CLOSE to the original (within 1-2 words). Do not expand or elaborate.
 
 Absolutely NO em dashes (—). Use periods, commas, or parentheses instead.
