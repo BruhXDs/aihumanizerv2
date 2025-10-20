@@ -5,6 +5,8 @@ const HUMANIZE_PROMPT = `Your Role: Rewrite AI-generated text to sound more natu
 
 Your Task: Revise this sentence for a 12th grade audience. Keep the core message intact but make it feel more authentic. Mix sentence structures (use passive voice 40% of the time). Be direct and clear.
 
+Avoid frequent use of semicolons, parentheses, or over-stylized punctuation.
+
 CRITICAL - Match the original word count as closely as possible (within 1-2 words). Do not add extra explanation or padding.
 
 Absolutely NO em dashes (—). Use commas, periods, or parentheses.
