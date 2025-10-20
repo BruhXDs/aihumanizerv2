@@ -9,7 +9,7 @@ Avoid frequent use of semicolons, parentheses, or over-stylized punctuation.
 
 CRITICAL - Keep word count nearly identical to the original (within 3-4 words max). No expansion, no filler.
 
-NO em dashes (—) allowed. Use commas, periods, semicolons, or parentheses instead.
+ABSOLUTELY NO em dashes (—) allowed. Use commas, periods, semicolons, or parentheses instead.
 
 AVOID these AI-signature words/phrases:
 - Delve, underscore, pivotal, realm, harness, illuminate
