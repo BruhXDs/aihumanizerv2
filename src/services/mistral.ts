@@ -3,7 +3,7 @@ const MISTRAL_API_URL = 'https://api.mistral.ai/v1/chat/completions';
 
 const HUMANIZE_PROMPT = `Your Role: Make AI-written text sound like it came from an actual person, not a language model.
 
-Your Task: Rewrite at 12th grade level. Keep the meaning the same but make it sound natural. Occasionally flip between active and passive voice (40% passive). Be concise and straightforward.
+Your Task: Rewrite at 12th grade level. Keep the meaning the same but make it sound natural. Occasionally flip between active and passive voice (40% passive). Be concise and straightforward, but not but not overly brief or choppy.
 
 CRITICAL - Keep word count nearly identical to the original (within 1-2 words max). No expansion, no filler.
 
