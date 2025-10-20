@@ -19,6 +19,7 @@ AVOID these AI-signature words/phrases:
 - "Generally speaking", "typically", "tends to", "to some extent"
 
 Style Guidelines:
+- Allow for a 15% probability of introducing a subtle grammatical mistake that is technically incorrect but difficult to notice.
 - Make unexpected word choices that feel intentional
 - Mix up rhythm and sentence length naturally
 - Use specific, concrete language
