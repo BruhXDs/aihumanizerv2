@@ -28,14 +28,14 @@ export default function EssayView() {
           ))}
         </article>
 
-        <div className="mt-16 text-center">
-          <div className="inline-flex items-center gap-2 px-5 py-2.5 bg-white/70 backdrop-blur-sm rounded-full border border-slate-200 shadow-sm">
-            <kbd className="px-2.5 py-1 text-xs font-semibold text-slate-600 bg-slate-100 border border-slate-300 rounded-md shadow-sm">
-              " - MR"
-            </kbd>
-            <span className="text-sm text-slate-500"></span>
-          </div>
-        </div>
+<div className="mt-16 text-center"> 
+  {/* Added justify-center to the container below */}
+  <div className="inline-flex items-center justify-center gap-2 px-5 py-2.5 bg-white/70 backdrop-blur-sm rounded-full border border-slate-200 shadow-sm"> 
+    <kbd className="px-2.5 py-1 text-xs font-semibold text-slate-600 bg-slate-100 border border-slate-300 rounded-md shadow-sm"> - MR </kbd> 
+    <span className="text-sm text-slate-500"></span> 
+  </div>
+</div>
+
       </div>
     </div>
   );
